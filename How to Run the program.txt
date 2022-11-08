@@ -1,0 +1,16 @@
+# How to Run the program
+
+Requirements
+1. Python 3
+2. Pandas
+3. Numpy
+4. Jupyter Notebook
+
+Needed Libraries
+- beautifultable (install it with anaconda or by running 'pip install beautifultable')
+
+- Run the .py script with the following command "python3 product.py"
+
+OR
+
+- Run the .ipynb with jupyter notebook. Here you can visualize the different tables with the print() function.
