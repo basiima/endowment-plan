@@ -1,0 +1,14 @@
+criteria,value
+interest rate,0.06
+inflation rate,0.09
+sum assured,10000000
+age,25
+unit fund growth rate,0.08
+non-unit fund growth rate,0.06
+risk discount rate,0.12
+mgt charge,0.0125
+bid-offer spread,0.05
+initial expenses,0.4
+renewal expenses,0.05
+initial commission,0.4
+renewal commission,0.08
